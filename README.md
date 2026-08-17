@@ -2,7 +2,7 @@
 To predict the health insurance - charges based age, BMI, and smoking status, using machine learning
 
 # Health Insurance Premium Prediction
-📌Overview
+# 📌Overview
 
 Health insurance premiums vary depending on several factors such as age, BMI, smoking habits, gender, region, and number of children. This project focuses on building a Machine Learning model to predict health insurance premiums based on customer information.
 
